@@ -1,0 +1,30 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This is a live course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsftaglib/siaugust.git"
+  },
+  "author": "Sithara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsftaglib/siaugust/issues"
+  },
+  "homepage": "https://github.com/gsftaglib/siaugust#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browser-list" :[
+    "last 2 versions"
+  ]
+}
