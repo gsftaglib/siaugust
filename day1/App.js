@@ -2,13 +2,13 @@ const heading1 = React.createElement("h1",{
     id:"title1",
     key:"1",
     className: "title"
-},"Namaste React 1");
+},"Namaste React Heading 1");
 
 const heading2 = React.createElement("h2",{
     id:"title2",
     key:"2",
     className: "title"
-},"Namaste React 2");
+},"Namaste React Heading 2");
 
 const container = React.createElement("div",{
     id:"container"
